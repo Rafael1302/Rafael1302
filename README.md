@@ -2,17 +2,17 @@
 
 ##### Hi there, welcome to my profile!👋
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-de-araújo-cabral-2380b6196/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-almeida-998608192/)
 
 ____________________________________________________
 
-- :book::computer: Em 2021, estou cursando o último ano do técnico de informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus Campinas.
+- :book::computer: Formando do 4º ano de Informática Integrado ao Ensino médio pelo Instituto Federal de São Paulo - Campus Campinas.
 
 - 🎯 Possuo interesse na área de desenvolvimento/gestão de software e banco de dados.
 
 _______________________________________________
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gabriel2712&theme=dark&show_icons=true) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Rafael1302&theme=dark&show_icons=true) 
 
 ____________
 
