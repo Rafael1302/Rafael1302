@@ -18,7 +18,7 @@ ____________
 
 #### Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | 
+![JavaScript] | 
 ![Python](https://img.shields.io/badge/%20%20%20%20-C-black) | 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) | 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | 
