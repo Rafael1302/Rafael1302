@@ -2,7 +2,7 @@
 
 ##### Hey guys, welcome to my profile!👋
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-almeida-998608192/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-de-almeida-998608192/)
 
 ____________________________________________________
 
