@@ -6,9 +6,11 @@
 
 ____________________________________________________
 
-- 💻 Cursando o último ano do Curso Técnico em Informática Integrado ao Ensino médio no Instituto Federal de São Paulo - Campus Campinas;
+- 💻 Técnico em Informática formado pelo IFSP;
 
-- 🚀 Estagiando na área de desenvolvimento Front-end no LaRCom da Unicamp.
+- 📚 Cursando o 3º período Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (WYDEN) e Licenciatura em Matemática (UNICAMP);
+
+- 🚀 Estagiário Superior na Icaro Tech.
 
 _______________________________________________
 
